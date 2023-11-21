@@ -1,2 +1,2 @@
 N	17
-data	data/HIST/input.raw
+data	input.raw
